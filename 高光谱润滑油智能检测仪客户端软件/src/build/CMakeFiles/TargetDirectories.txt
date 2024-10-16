@@ -1,0 +1,6 @@
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/CMakeFiles/edit_cache.dir
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/CMakeFiles/rebuild_cache.dir
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/src/PgGUI/CMakeFiles/PG_SDC_GUI.dir
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/src/PgGUI/CMakeFiles/edit_cache.dir
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/src/PgGUI/CMakeFiles/rebuild_cache.dir
+D:/Progoo/Progoo/PgProject/PgSpecDetClient/build/src/PgGUI/CMakeFiles/PG_SDC_GUI_autogen.dir
